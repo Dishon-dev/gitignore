@@ -31,3 +31,5 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# To ignore tracked files use git rm --cached <filename> & then declare the file in .gitignore
